@@ -20,7 +20,7 @@
 <td width="50%">
 <h3 align="center">Gestor de Tareas en C#</h3>
 <div align="center">
-<a href="https://github.com/HernanGoat77/task-manager-csharp" target="_blank"><img src="https://i.imgur.com/15N4GjA.jpeg" width="400" alt="Gestor de Tareas en C#"></a>
+<a href="https://github.com/HernanGoat77/PruebaQ10" target="_blank"><img src="https://i.imgur.com/15N4GjA.jpeg" width="400" alt="Gestor de Tareas en C#"></a>
 <p>
 <a href="https://github.com/HernanGoat77/task-manager-csharp" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-blue?style=for-the-badge&logo=github&logoColor=white">
