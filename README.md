@@ -22,7 +22,7 @@
 <div align="center">
 <a href="https://github.com/HernanGoat77/PruebaQ10" target="_blank"><img src="https://i.imgur.com/QCq0KcR.png" width="400" alt="Gestor de Tareas en C#"></a>
 <p>
-<a href="https://github.com/HernanGoat77/task-manager-csharp" target="_blank">
+<a href="https://github.com/HernanGoat77/PruebaQ10" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
