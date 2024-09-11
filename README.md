@@ -31,7 +31,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Portfolio Web</h3>
+<h3 align="center">Portafolio Web</h3>
 <div align="center">
 <a href="https://github.com/HernanGoat77/portfolio-web" target="_blank"><img src="https://i.imgur.com/YzO1qny.png" width="400" alt="Portfolio Web"></a>
 <p>
